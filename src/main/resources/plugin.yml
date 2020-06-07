@@ -1,0 +1,3 @@
+name: SetSpawn
+version: ${project.version}
+main: auscvp.org.main.Main
